@@ -1,0 +1,3 @@
+hostname,record_type,expected_value
+app.example.test,A,192.0.2.10
+mail.example.test,CNAME,gateway.example.test

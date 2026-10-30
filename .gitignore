@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*results*.json
+*results*.xlsx
+*sonuc*.xlsx
+internal_dns*.csv
+!examples/internal_dns_template.csv
+dis_dns.xlsx
+*.bak
